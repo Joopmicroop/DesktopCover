@@ -20,7 +20,7 @@ DesktopCover.app :
   the gui + DesktopCover.sh script, you can move the app to your Applications folder or
   Applications/Utilities folder for permanent use. (Just the app the script is inside the
   app bundle too)
-  use? Just click hide or show depending on your choice.
+  Once opened. Choose to click the hide or show button depending on your choice.
 
 DesktopCover.sh :
 -----------------
