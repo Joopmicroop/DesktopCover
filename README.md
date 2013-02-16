@@ -15,6 +15,9 @@ That being said, DesktopCover will leave your drive/disk icons on the desktop fo
 Also if you open a Finder window and take a look at your desktop folder, all your icons
 including the hidden ones from the desktop background will be visible there.
 
+Once an option has been chosen in DesktopCover sript/app, they will press trough reboot. 
+To go back to the old way, run the script/app again and invert your choice.
+
 DesktopCover.app :
 -----------------
   the gui + DesktopCover.sh script, you can move the app to your Applications folder or
