@@ -7,8 +7,8 @@
         |_______|_______|_______|___|   |_|   |_|___|_______|___|  |_|_______|_______|___|    
 
 
-DesktopCover
-============
+DesktopCover For OSX
+====================
 
 This app will cover up your mac desktop icons. But not all of them and not everywhere... 
 That being said, DesktopCover will leave your drive/disk icons on the desktop for easy access.
